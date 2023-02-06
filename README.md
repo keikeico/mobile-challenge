@@ -4,6 +4,11 @@ At our software development house nestled in the vibrant city of İstanbul, we e
 
 Our commitment to excellence extends beyond just technology, as we strongly value our company culture and invest in our team. We strive to assemble a group of highly skilled developers, each driven by their love for software development.
 
+**We continue to constantly seek talented individuals to join our team. Please direct all questions regarding employment opportunities to us via :**
+
+- E-mail: [developer@keikei.co](mailto:developer@keikei.co)
+- Linkedin: [KeiKei](https://www.linkedin.com/company/keikeico/)
+
 # About the challenge
 
 This assessment requires the creation of a React Native application utilizing the provided screens as a reference. The task involves retrieving content, sorting, searching and generating user data, and displaying it in the view.
