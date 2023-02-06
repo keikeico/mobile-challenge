@@ -29,7 +29,7 @@ You can use frameworks or packages as long as you can explain to us why you chos
 
 # Design
 
-You can find the design sample in the _screens_ folder. You can work independently as a UI on design. We expect you to be committed to designing when it comes to UX.
+You can find the design sample in the [_screens_](/screens) folder. You can work independently as a UI on design. We expect you to be committed to designing when it comes to UX.
 
 # Details
 
