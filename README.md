@@ -63,6 +63,7 @@ You will need to build the following 5 pages:
 
    - Information of the logged in user is displayed
    - User age must be calculated manually.
+   - Logout button should be working and user should be redirected to login page.
 
 # Nice to have
 
