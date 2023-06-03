@@ -72,7 +72,7 @@ You will need to build the following 5 pages:
 3. Adherence to production-grade coding standards, including clean, maintainable, and reusable code.
 4. Implementation of unit tests using Jest and React Testing Library.
 5. Use of styled-components for styling.
-6. Incorporation of React Query.
+6. Using React Query.
 
 # Submission Guidelines
 
